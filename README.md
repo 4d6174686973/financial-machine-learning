@@ -19,5 +19,5 @@ pip install -r requirements.txt
 
 
 ## References
-- [1] Marcos Lopez de Prado. Advances in Financial Machine Learning. Wiley, 2018.
-- [2] Marcos Lopez de Prado. Machine Learning for Asset Managers. Cambridge University Press, 2020.
+- [1] Marcos Lopez de Prado. Advances in Financial Machine Learning. Wiley, 2018. 
+- [2] Marcos Lopez de Prado. Machine Learning for Asset Managers. Cambridge University Press, 2020. https://doi.org/10.1017/9781108883658
